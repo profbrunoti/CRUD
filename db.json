@@ -1,0 +1,22 @@
+{
+  "pessoas": [
+    {
+      "nome": "Pedro",
+      "idade": "30",
+      "cpf": "111.222.333-44",
+      "id": 4
+    },
+    {
+      "nome": "Tiago",
+      "idade": "70",
+      "cpf": "999.888.777-66",
+      "id": 5
+    },
+    {
+      "nome": "Senai Mogi das Cruzes",
+      "idade": "70",
+      "cpf": "555",
+      "id": 6
+    }
+  ]
+}
